@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvave",
+        "uuid": 16455659,
+        "checksum": "gzic9c"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
